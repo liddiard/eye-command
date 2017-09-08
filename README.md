@@ -1,4 +1,4 @@
-# eye-commnad
+# eye-command
 
 ## Installation
 
